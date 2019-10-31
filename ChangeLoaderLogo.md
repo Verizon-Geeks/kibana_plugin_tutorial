@@ -1,4 +1,4 @@
-* Custom Loader for Kibana 7.4
+# Custom Loader for Kibana 7.4
 
 The throbber is the animation that appears on the Kibana page while it does not load all its components. The throbber logo is embedded in .kibanaWelcomeLogo
 
@@ -16,5 +16,5 @@ base64 yourimage.svg
 ```
 
 
-* reference
+# reference
 - https://medium.com/gradiant-talks/customizing-kibana-web-application-f74c1b48ec73
