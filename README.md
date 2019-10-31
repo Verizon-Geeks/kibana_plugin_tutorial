@@ -73,4 +73,3 @@ For more information about any of these commands run `yarn ${task} --help`. For 
 
 ## References
 - https://www.elastic.co/guide/en/kibana/current/plugin-development.html
-- 
